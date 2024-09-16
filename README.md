@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zayn</h1>
-<h3 align="center">An undergraduate software engineer dedicated to mastering programming basics and problem-solving. Currently, proficient in C++, with a budding understanding of HTML and CSS. Eager to learn and contribute to the evolving tech landscape.</h3>
+<h3 align="center">A curious programmer</h3>
 
 <p align="center">🌱 I’m currently practicing basic problem solving in c++</p>
 
